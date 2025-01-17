@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Water Service</title>
+<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body align="center">
+<
+  <div style="width: 100%; height: 100%;" class="top">
+    <img src="image.jpg" style="float: left; width: 50%;">
+    <div style="float: right; width: 50%;">
+      <button class="btn-warning" onlick="">Back</button>
+     
+    </div>
+<div>
+  <img src="image.jpg" style="float: center; width: 100%;">
+  </div> <br><br>
+  <div style="width: 100%; height: 100%;">
+    Oldmeter : <input type="Oldmeter"   style="width:30%; name="oldmeter"> <br><br>
+      Newmeter : <input type="Newmeter"  style="width:30%; name="Newmeter"> <br><br>
+   
+    Problem Facing : <input type="Problem Facing" id="Problem Facing"  style="width: 30%; name="Problem Facing"><br><br>
+   
+    <button class="btn-warning">Submit</button>
+  </div>
+</body>
+</html>
